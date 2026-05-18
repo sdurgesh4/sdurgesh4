@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdurgesh4&label=Profile%20views&color=0e75b6&style=flat" alt="sdurgesh4" /> </p>
 
-- 🔭 I’m currently working on [Medicine recommendation system using Spring AI](https://github.com/sdurgesh4/medicine_finder)
+- 🔭 I’m currently working on [Coupay: coupon sharing platform using Spring AI](https://github.com/sdurgesh4/coupay)
 
 - 🌱 I’m currently learning **ReactJs for frontend, Docker and Kafka for project deployment**
 
